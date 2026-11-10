@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="FB_IMG_1741010031735.jpg" width="155">
+<img src="FB_IMG_1741010031735.jpg" width="155" alt="Profile picture">>
 
 <br>
 
@@ -78,6 +78,7 @@ I find beauty in details, old-fashioned aesthetics, carefully arranged compositi
 *A small collection of visual compositions, photographs and things worth keeping.*
 
 <br>
+
 
 </div>
 
