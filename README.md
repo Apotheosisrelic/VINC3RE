@@ -8,10 +8,6 @@
 
 <br>
 
-<img src="Untitled1096_20261110092617.png" width="1536" alt="Personal decorative banner">
-
-<br>
-
 # ENZO
 ###  𔘓    ׅ A STUDY IN ART, WORDS & EXISTENCE  ᩧ
 
@@ -20,6 +16,10 @@
 ✦ ──────────────── ✦
 
 **GRAPHIC DESIGNER · CREATIVE MIND · COLLECTOR OF MOMENTS**
+
+<br>
+
+<img src="Untitled1096_20261110092617.png" width="1536" alt="Personal decorative banner">
 
 <br>
 
