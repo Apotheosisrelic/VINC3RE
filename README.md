@@ -79,6 +79,7 @@ I find beauty in details, old-fashioned aesthetics, carefully arranged compositi
 
 <br>
 
+<img src="36c8de7f1e4025cff71e247279a593e4.gif" width="100%">
 
 </div>
 
